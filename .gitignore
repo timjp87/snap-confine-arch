@@ -1,4 +1,4 @@
 src
 pkg
-snap-confine-*.pkg.tar.xz
-snap-confine-*.tar.gz
+*.pkg.tar.xz
+snap-confine/
