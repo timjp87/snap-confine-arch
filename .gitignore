@@ -1,4 +1,5 @@
 src
 pkg
 *.pkg.tar.xz
-snap-confine/
+*.tar.gz
+
